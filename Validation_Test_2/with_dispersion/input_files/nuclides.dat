@@ -1,0 +1,6 @@
+2   !number of elements 
+Aelem 
+Belem
+2  ! number of nuclides  
+Anuc  3.47e-2    Aelem  Bnuc 0.0   ! nuclide name, decay constant,  element  , importance
+Bnuc  3.47e-80    Belem  NULL 0.0 100

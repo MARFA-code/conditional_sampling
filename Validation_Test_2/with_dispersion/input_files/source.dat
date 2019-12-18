@@ -1,0 +1,7 @@
+mol/yr 
+1 
+CAN1 
+1 1 
+2        ! number tabulated source values 
+0         100000.0  0.
+0.00001   100000.0  0.
