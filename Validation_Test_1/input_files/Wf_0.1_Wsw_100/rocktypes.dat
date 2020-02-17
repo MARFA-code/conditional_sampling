@@ -2,8 +2,7 @@ C:\Users\jsalglas\Desktop\Arxius_varis\MARFA\repositories\marfa-dev\data
 None
 1
 RT1
-0 D 0 0 
-SW 0.1 100. 6.31e-2
+STAGNANT 0.1 100. 6.31e-2
 MD
 2600 0 1.e10
 0.0018 6.3e-7

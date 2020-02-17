@@ -1,9 +1,9 @@
-./data/
+C:\Users\jsalglas\Desktop\Arxius_varis\MARFA\repositories\marfa-5.0\data
 dummy 
 1 
 RT1 
-0.2 D 0 0  
-SW 12.75d-3 27d-3 6.31d-2
+DISPERSION 0.2
+STAGNANT 12.75d-3 27d-3 6.31d-2
 MD
 2750 0.0
 0.0079 9.47d-6
